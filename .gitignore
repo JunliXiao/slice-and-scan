@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Local agent installs and test runs
+.agents/
+.claude/
+skills-lock.json
+
+# Derived output from trying the skill in this repo
+.slice-scan-out/
